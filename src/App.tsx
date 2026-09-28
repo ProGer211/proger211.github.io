@@ -104,7 +104,7 @@ const focus = [
 ];
 
 const stats = [
-  { value: "7.21/10", label: "Nota del grado" },
+  { value: "7.31/10", label: "Nota del grado" },
   { value: "10/10", label: "Nota TFG" },
   { value: "2026", label: "Graduación" },
   { value: "ES · CA · EN", label: "Idiomas" },
