@@ -1,0 +1,12 @@
+{
+  "title": "Gerard Chaparro — Estudiante de Ingeniería Informática",
+  "description": "Portfolio de Gerard Chaparro Redondo, estudiante de Ingeniería Informática (UPC) buscando prácticas curriculares. Proyectos, stack técnico y contacto.",
+  "language": "es",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
