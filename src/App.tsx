@@ -455,7 +455,7 @@ function App() {
                 <div className="timeline-dot" />
                 <span>2022 — 2026</span>
                 <Heading level={3}>Grado en Ingeniería Informática</Heading>
-                <p>Universitat Politècnica de Catalunya (EPSEVG), Vilanova i la Geltrú. TFG: CodeEvaluator, nota 10/10. Nota media del grado: 7.21/10.</p>
+                <p>Universitat Politècnica de Catalunya (EPSEVG), Vilanova i la Geltrú. TFG: CodeEvaluator, nota 10/10. Nota media del grado: 7.31/10.</p>
                 <div className="tags"><span>TFG · 10/10</span><span>Ingeniería del Software</span></div>
               </div>
               <div className="timeline-item active">
